@@ -1,4 +1,4 @@
-# Aliases
+# bash_aliases by Tedster
 
 Some aliases I use because I'm me, and explained decently.
 
